@@ -1,3 +1,8 @@
+# generated files
+log.log
+myFigure.fig
+myFigure.png
+
 # MATLAB
 # Windows default autosave extension
 *.asv

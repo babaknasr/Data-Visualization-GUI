@@ -1,0 +1,33 @@
+Particle Size,           µm
+Relative Humidity,       %
+Detachment Fraction,      
+Resuspension Rate,       1/s
+Free Stream Velocity,    m/s
+Shear Velocity,       m/s
+Particle Reynolds,        
+Threshold Velocity,      m/s
+Flow Acceleration,       m/s^2
+Turbulence Intensity,    
+Substrate Roughness (n), µm
+Initial Loading,         #/mm^2
+Dust Loading,            g/m^2
+Time,                    s
+Pull Off Force,          µN
+Temperature,             °C
+Particle Material,       Qualitative
+Particle Shape,          Qualitative
+Substrate Material,      Qualitative
+Substrate Roughness,     Qualitative
+Deposit Structure,       Qualitative
+Particle Dispersion,     Qualitative
+Substrate Dimension,     Qualitative
+Wind Tunnel Dimension,   Qualitative
+Medium,                  Qualitative
+Experiment ID,			 Qualitative
+Residence Time,			 s
+A_FOV,					 mm2
+Flow Condition,			 Qualitative
+Particle Bumping,		 Qualitative
+Particle Neutralized,	 Qualitative
+Substrate Grounded,		 Qualitative
+Alpha Radiated, 		 Qualitative

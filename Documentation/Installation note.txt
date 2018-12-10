@@ -1,0 +1,12 @@
+Installation note:
+- This deployed package runs on a Windows machine.
+- Download and unzip "Particle Resuspension Data.zip" separately: It contains Data files of particle resuspension.
+- MATLAB Runtime will be installed that is required to run the application.
+- User must be administrator to install and run the application.
+- Install the application in a sub-directory of User Folder (Recommend to install in default installation folder)
+- The following files are available along the application in installation directory:
+  . "GUI Demo Video.mp4" file: demo video of how the application works.
+  . "GUI Demo Slides.pptx" file: slides to help using the application.
+  . "GUI Demo-Particle Resuspension theory tool Slides.pptx" file: slides to help using the particle resuspension theory tool.
+  . “GUI import data Excel template.xlsx” file: It shows the format of the data in Excel file that is required to follow for adding more data to the database.
+  . “parameters.csv” file: list of all parameters and units that are presented across the database.
